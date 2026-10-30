@@ -65,6 +65,7 @@
 - **FPS patch:** **lepexa_cell** (Lepexa). **XAndromedaXR improved his FPS patch** for PORTHEON. The other community patches: Lepexa and Antigravity.
 - **UFC 1-4 ports:** built on **GNS** (GNSB)'s UFC 3 PS4 port, on SacredFire / bbport and on shadPS4.
 - Also: KytyPS5 and Kyty (InoriRus), roshanarunk, Senaxx and EmK530 (UFC 5 engine work), deanzx06 (Sandy/Ivy Bridge compatibility), the GoldHEN Cheat Repository (UFC 4 cheats), SDL_GameControllerDB.
+- And also credits to ken9l
 
 ## License
 
@@ -135,6 +136,7 @@ O **PORTHEON** é um launcher dos ports para PC do **EA SPORTS UFC 1, 2, 3, 4 (P
 - **Patch de FPS:** **lepexa_cell** (Lepexa). **O XAndromedaXR aprimorou o patch de FPS dele** para o PORTHEON. Os outros patches da comunidade: Lepexa e Antigravity.
 - **Ports do UFC 1 a 4:** feitos a partir do port do UFC 3 de PS4 do **GNS** (GNSB), do SacredFire / bbport e do shadPS4.
 - E também: KytyPS5 e Kyty (InoriRus), roshanarunk, Senaxx e EmK530 (trabalho no motor do UFC 5), deanzx06 (compatibilidade com Sandy/Ivy Bridge), GoldHEN Cheat Repository (trapaças do UFC 4), SDL_GameControllerDB.
+- E também créditos para ken9l
 
 ## Licença
 
